@@ -38,6 +38,3 @@ python3 tia_monitor.py
 This will execute the script, and you should see the CPU usage, Memory usage, Disk usage, Remaining Disk Space and the size of the .celestia-light-blockspacerace-0/data folder being printed every 5 seconds.
 
 ![c1](https://user-images.githubusercontent.com/95714572/234147543-3f4b8a59-2b0c-4b34-99fc-891407bcde5b.png)
-
-## This Github repository has already been submitted to Celestia Blockspace Race(Bonus Task)
-![c2](https://user-images.githubusercontent.com/95714572/234148589-bcbe7a4f-956f-4df2-8096-680c424576f1.png)
